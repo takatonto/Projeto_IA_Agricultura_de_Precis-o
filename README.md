@@ -6,6 +6,7 @@ compreendido por qualquer pessoa.
   Além disso, sua instrução é focada especificamente para seu foco, que é atender as necessidades informacionais do usuário com relação a agronegócio.
 
 Imagem modelo:
+
 ![imagem_2024-05-09_160312934](https://github.com/takatonto/Projeto_IA_Agricultura_de_Precisao/assets/154623886/35f0b726-ff3e-4b09-906a-e19002175fdb)
 
 Experimento prático com imagem modelo:
